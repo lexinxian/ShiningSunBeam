@@ -1,4 +1,19 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="0;6N@N.IaQ3B0F4k,Mr1" x="176" y="-125"><statement name="HANDLER"><block type="device_show_leds" id=";hmtxX~E(CY0q5*V|jZc"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="y3=UXpI*?t6UtP@TfS#7"><value name="pause"><shadow type="timePicker" id="S0S,]gxsIz0?MpF7,sca"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="|0jx4g!VxQyE+IAp)]85"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="kgvvsCEu*OV%`D9jdX~9"><value name="pause"><shadow type="timePicker" id="KQ3s5C3Ad4.dz2}e+daT"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="Vi0jMR)cg|YW!Zv|=`[C"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="device_pause" id="R}ch`Sv,^_^_+qx?,Hb1"><value name="pause"><shadow type="timePicker" id="]rxo!J3xk:#{(0F,o),B"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
